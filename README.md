@@ -1,5 +1,5 @@
 
-![web-preview](/thumbnail.png)
+![web-preview](/public/thumbnail.png)
 
 # React + TypeScript + Vite
 
